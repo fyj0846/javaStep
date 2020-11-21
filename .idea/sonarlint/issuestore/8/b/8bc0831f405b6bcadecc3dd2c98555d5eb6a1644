@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™ÃÁ´ûÿÿÿÿ8æ§îàİ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡øÎÙ8…êíàİ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚¹¨°8Ô®ãàİ.
+X	java:S125"<This block of commented-out lines of code should be removed.(øÆ¡ä8¦×áìİ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Ô®ãàİ.
